@@ -106,4 +106,4 @@ deploy:
   repo:
     github: https://github.com/a920604a/blog
   branch: main
-root: /blog/
+
