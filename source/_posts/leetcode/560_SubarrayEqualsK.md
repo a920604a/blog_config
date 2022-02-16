@@ -1,8 +1,8 @@
 ---
 title: 560. Subarray sum equals k
-date: 2022-02-16 16:30:16
+
 tags:  
-    - Hash table
+    - hash table
 categories: leetcode
 comments: false
 ---

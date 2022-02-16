@@ -1,6 +1,6 @@
 ---
 title: 104. Maximum Depth of Binary Tree
-date: 2022-02-16 16:10:16
+
 tags:  
     - backtracking
     - bfs
@@ -53,7 +53,7 @@ public:
 ```
 ## analysis
 
-- dfs 
+- backtracking 
 time complexity `O(n)`
 space complexity `O(logN)`
 - bfs 

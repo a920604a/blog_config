@@ -1,8 +1,8 @@
 ---
 title: 49. Group Anagrams
-date: 2022-02-16 16:10:16
+
 tags:  
-    - Hash table
+    - hash table
 categories: leetcode
 comments: false
 ---

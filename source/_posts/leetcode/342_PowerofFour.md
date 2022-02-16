@@ -1,6 +1,6 @@
 ---
 title: 342. Power of Four
-date: 2022-02-16 16:30:16
+
 tags:  
     - Bit Manipulation
 categories: leetcode

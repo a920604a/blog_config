@@ -1,6 +1,6 @@
 ---
 title: 19. Remove Nth Node From End of List
-date: 2022-02-16 16:10:16
+
 tags:  
     - Linked List
     - Two Pointers

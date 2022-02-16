@@ -1,6 +1,6 @@
 ---
 title: 326. Power of Three
-date: 2022-02-16 16:10:16
+
 tags:  
     - Bit Manipulation
 categories: leetcode

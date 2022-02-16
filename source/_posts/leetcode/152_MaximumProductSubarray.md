@@ -1,6 +1,6 @@
 ---
 title: 152. Maximum Product Subarray
-date: 2022-02-16 16:10:16
+
 tags:  
     - dp
 categories: leetcode

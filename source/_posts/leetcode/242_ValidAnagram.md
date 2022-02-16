@@ -1,6 +1,6 @@
 ---
 title: 242. Valid Anagram
-date: 2022-02-16 16:10:16
+
 tags:  
     - hash table
 categories: leetcode

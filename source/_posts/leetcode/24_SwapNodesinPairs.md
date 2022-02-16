@@ -1,6 +1,6 @@
 ---
 title: 24. Swap Nodes in Pairs
-date: 2022-02-16 16:10:16
+
 tags:  
     - Linked List
 categories: leetcode

@@ -194,6 +194,7 @@ Muse 和 Mist 則需要深度修改source code才能實現改變側邊欄位置
 -   NexT.utils.isDesktop() && $('body').velocity('stop').velocity({paddingRight: 0});
 +   NexT.utils.isDesktop() && $('body').velocity('stop').velocity({paddingLeft: 0});
 ```
+- [添加文章字數與所需閱讀時間](https://guiblogs.com/hexo30-18/)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: 645. Set Mismatch
-date: 2022-02-16 16:30:16
+
 tags:  
     - Bit Manipulation
 categories: leetcode

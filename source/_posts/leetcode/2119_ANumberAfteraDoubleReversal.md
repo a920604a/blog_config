@@ -1,6 +1,6 @@
 ---
 title: 2119. A Number After a Double Reversal
-date: 2022-02-16 16:30:16
+
 tags:  
     - Bit Manipulation
 categories: leetcode

@@ -1,7 +1,8 @@
 ---
 title: 1. Two Sum
-date: 2022-02-16 16:10:16
-tags:  hash table
+
+tags:  
+    - hash table
 categories: leetcode
 comments: false
 ---

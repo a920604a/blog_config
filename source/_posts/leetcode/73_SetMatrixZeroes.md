@@ -1,6 +1,6 @@
 ---
 title: 73. Set Matrix Zeroes
-date: 2022-02-16 16:10:16
+
 categories: leetcode
 comments: false
 ---

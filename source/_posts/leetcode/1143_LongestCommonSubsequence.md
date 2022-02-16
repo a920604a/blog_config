@@ -1,6 +1,6 @@
 ---
 title: 1143. Longest Common Subsequence
-date: 2022-02-16 16:30:16
+
 tags:  
     - dp
 categories: leetcode

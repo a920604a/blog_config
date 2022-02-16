@@ -1,6 +1,6 @@
 ---
 title: 567. Permutation in String
-date: 2022-02-16 16:30:16
+
 tags:  
     - Sliding Window
 categories: leetcode

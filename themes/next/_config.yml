@@ -832,3 +832,10 @@ back2top:
   enable: true
   sidebar: false
   scrollpercent: true  #  浏览页面的时候显示当前浏览进度
+
+# 文章字數與所需閱讀時間
+symbols_count_time:
+  separated_meta: false # 是否獨立一行
+  # 以下設定如果填 false，「文章字數：」與「所需閱讀時間 ≈ 」會以圖標呈現
+  item_text_post: true # 文章
+  item_text_total: true # 網頁底部
