@@ -1,0 +1,36 @@
+---
+title: 20. Valid Parentheses
+date: 2022-02-16 16:10:16
+tags:  
+    - stack
+categories: leetcode
+comments: false
+---
+
+## [problem](https://leetcode.com/problems/valid-parentheses/)
+
+
+## solution 
+```c++
+class Solution {
+public:
+    bool isValid(string s) {
+        stack<char> sta;
+        for(char c:s){
+            if(c=='(' || c=='[' || c=='{') sta.push(c);
+            else{
+                if(sta.empty()) return false;
+                else if(c==')' && sta.top() == '(') sta.pop();
+                else if(c==']' && sta.top() == '[') sta.pop();
+                else if(c=='}' && sta.top() == '{') sta.pop();
+                else return false;
+            }
+        }
+        return sta.empty();
+    }
+};
+```
+
+## analysis
+- time complexity `O(n)`
+- space complexity `O(n)`
