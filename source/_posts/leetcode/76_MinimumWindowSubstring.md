@@ -3,7 +3,7 @@ title: 76. Minimum Window Substring
 
 tags:  
     - hash table
-    - Siliding Window
+    - Sliding Window
 categories: leetcode
 comments: false
 ---
