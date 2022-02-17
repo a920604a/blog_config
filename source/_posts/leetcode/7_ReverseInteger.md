@@ -8,9 +8,11 @@ comments: false
 ---
 
 ## [problem](https://leetcode.com/problems/reverse-integer/)
+Given a 32-bit signed integer, reverse digits of an integer.
+
 
 ## solution
-
+- 要注意是否會overflow，在每次將結果加到ret變數時都必須檢查是否overflow
 
 ```c++
 class Solution {

@@ -13,6 +13,7 @@ comments: false
 ## sloution
 
 `if(i>l && candidates[i-1]==candidates[i]) continue;` skip depulicate
+
 ```c++
 class Solution {
 public:

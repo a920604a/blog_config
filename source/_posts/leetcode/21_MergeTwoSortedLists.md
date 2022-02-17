@@ -12,7 +12,8 @@ comments: false
 
 ## solution 
 
-- new 兩個指標分別指向`list1` `list2` 比較大小，小的放進 `return list`
+- 因為是排序過的list，只要 new 兩個指標分別指向`list1` `list2` 比較大小，小的放進要回傳的串列即可。
+
 ```c++
 class Solution {
 public:

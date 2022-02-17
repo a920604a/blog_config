@@ -11,6 +11,10 @@ comments: false
 
 
 ## solution 
+
+經典題目，利用stack 將`(` `[` `{` push 進去，如果不是左半部括號，則檢查stack 頂部是否為相對應的右半部括號，如果不是`return false`，如果是pop，並繼續遍歷`string`
+
+
 ```c++
 class Solution {
 public:

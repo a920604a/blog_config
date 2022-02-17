@@ -14,7 +14,8 @@ comments: false
 
 #### option 1 - merge lists
 
-兩兩linked list 合併
+用for 迴圈遍歷，並兩兩linked list 合併
+
 ```c++
 class Solution {
 public:
