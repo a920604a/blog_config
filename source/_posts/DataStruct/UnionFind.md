@@ -3,6 +3,7 @@ title: UnionFind
 tags:  
     - Union Find
 categories: 
+    - CS
     - Algorithm
 comments: false
 ---

@@ -3,6 +3,7 @@ title: nSum 問題
 tags:
     - Two Pointers
 categories: 
+    - CS
     - Algorithm
 comments: false
 ---

@@ -3,7 +3,9 @@ title: Linked List
 tags:  
     - Linked List
 categories: 
+    - CS
     - Data Structure
+    
 comments: false
 ---
 

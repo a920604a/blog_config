@@ -3,6 +3,7 @@ title: Stack
 tags:  
     - stack
 categories: 
+    - CS
     - Data Structure
 comments: false
 ---

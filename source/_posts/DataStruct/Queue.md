@@ -3,6 +3,7 @@ title: Queue
 tags:  
     - queue
 categories: 
+    - CS
     - Data Structure
 comments: false
 ---

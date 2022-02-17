@@ -1,11 +1,10 @@
 ---
 title: Math
 categories: 
+    - CS
     - Algorithm
 comments: false
 ---
-
-###### tags: `interview` `algorithm`
 
 a^a = 0, a^0 = a 滿足交換性
 

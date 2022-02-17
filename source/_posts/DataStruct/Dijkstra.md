@@ -4,7 +4,7 @@ tags:
     - graph
     - bfs
 categories: 
-    - Algorithm
+    - CS
     - Data Structure
 comments: false
 ---
