@@ -8,8 +8,6 @@ categories: leetcode
 comments: false
 ---
 
-
-
 ## [problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 
@@ -65,4 +63,4 @@ public:
 
 ## analysis
 - time complexity `O(n)`
-- space complexity `O(n)`
+- space complexity `O(1)` , 最多26 個英文字母
