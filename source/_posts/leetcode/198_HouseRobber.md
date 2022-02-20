@@ -1,6 +1,5 @@
 ---
 title: 198. House Robber
-
 tags:  
     - dp
 categories: leetcode
