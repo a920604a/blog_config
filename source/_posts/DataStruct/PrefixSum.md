@@ -1,7 +1,7 @@
 ---
 title: PrefixSum
 tags:  
-    - PrefixSum
+    - Prefix Sum
 categories: 
     - CS
     - Data Structure
@@ -9,8 +9,10 @@ categories:
 comments: false
 ---
 
+Prefix Sum 用於快速、频繁地計算一個索引區間内的元素之和。
 
-PrefixSum
+
+Prefix Sum
 - 303 Range Sum Query - Immutable (Easy)
 - 304 Range Sum Query 2D - Immutable (Medium)
 - 560. Subarray Sum Equals K (Medium)
