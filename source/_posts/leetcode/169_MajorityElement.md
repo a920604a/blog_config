@@ -44,7 +44,7 @@ public:
 };
 ```
 
-##### option 3 - vote
+#### option 3 - vote
 ```c++
 class Solution {
 public:
