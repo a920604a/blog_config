@@ -3,6 +3,7 @@ title: 55. Jump Game
 
 tags:  
     - dp
+    - greedy
 categories: leetcode
 comments: false
 ---
