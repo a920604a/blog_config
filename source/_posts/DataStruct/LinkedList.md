@@ -24,6 +24,9 @@ comments: false
 - 92 Reverse Linked List II (Medium)
 - 234 Palindrome Linked List (Easy)
 
+- 2095 Delete the Middle Node of a Linked List (Medium)
+- 2130 Maximum Twin Sum of a Linked List (Medium)
+
 ## implement
 ```c++
 #include<iostream>
