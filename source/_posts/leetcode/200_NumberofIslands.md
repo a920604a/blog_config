@@ -18,22 +18,25 @@ comments: false
 ```c++
 class Solution {
 public:
-    void traverse(vector<vector<char>>& grid, int i, int j){
+    void dfs(vector<vector<char>> & grid,int i, int j){
         int n = grid.size(), m = grid[0].size();
         if(i<0 || j<0 || i>n-1 || j>m-1 || grid[i][j] =='0') return;
+        
         grid[i][j] = '0';
-        traverse(grid, i-1, j);
-        traverse(grid, i+1, j);
-        traverse(grid, i, j-1);
-        traverse(grid, i, j+1);
+        dfs(grid, i-1,j);
+        dfs(grid, i+1,j);
+        dfs(grid, i,j-1);
+        dfs(grid, i, j+1);
+        
     }
     int numIslands(vector<vector<char>>& grid) {
-        int count = 0;
+        
         int n = grid.size(), m = grid[0].size();
+        int count = 0;
         for(int i=0;i<n;++i){
             for(int j = 0;j<m;++j){
                 if(grid[i][j] == '1'){
-                    traverse(grid, i, j);
+                    dfs(grid, i, j);
                     count++;
                 }
             }
@@ -51,28 +54,28 @@ public:
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int n = grid.size(), m = grid[0].size();
-        int count = 0;
-        vector<int> dirX = {-1,1,0,0}, dirY = {0,0,-1,1};
-        vector<vector<bool>> visited(n, vector<bool>(m, false));
+        
+        int n = grid.size(), m = grid[0].size(),count= 0;
+        queue<vector<int>> q;
         for(int i=0;i<n;++i){
-            for(int j = 0;j<m;++j){
-                if(grid[i][j] == '0' || visited[i][j]) continue;
-                queue<int> q;
-                q.push(i*m+j);
-                while(!q.empty()){
-                    int p = q.front();
-                    q.pop();
-                    grid[p/m][p%m] = '0';
-                    visited[p/m][p%m] = true;
-                    for(int d = 0;d<4;++d){
-                        int x =p/m + dirX[d], y = p%m + dirY[d];
-                        if(x< 0 || y<0 || x>n-1 || y>m-1 || grid[x][y] == '0' || visited[x][y]) continue;
-                        q.push(x*m +y);
-                        visited[x][y] = true;
+            for(int j = 0 ; j<m ;++j){
+                
+                if(grid[i][j] == '1'){
+                    count++;
+                    q.push({i,j});
+                    while(!q.empty()){
+                        vector<int> cur = q.front();
+                        q.pop();
+                        int x = cur[0], y = cur[1];
+                        if(x< 0 || y<0 || x>n-1 || y>m-1 || grid[x][y] == '0') continue;
+                        grid[x][y] = '0';
+                        push({x+1,y});
+                        q.push({x-1,y});
+                        q.push({x,y+1});
+                        q.push({x,y-1});
                     }
                 }
-                count++;
+                
             }
         }
         return count;
@@ -82,5 +85,8 @@ public:
 #### option 3 - *Union Find
 ## analysis
 - option 1 
+    - time complexity `O(n*m)` 
+    - space complexity `O(n*m)`
+- option 2 
     - time complexity `O(n*m)` 
     - space complexity `O(n*m)`
