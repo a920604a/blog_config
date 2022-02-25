@@ -1,7 +1,6 @@
 ---
 title: 208. Implement Trie (Prefix Tree)
 tags:  
-    - backtracking
     - Trie
 categories: leetcode
 comments: false
@@ -13,15 +12,7 @@ comments: false
 先定義TrieNode 資料結構
 Trie 只有葉子才會存資料，其餘只是指標
 
-```c++
-struct TrieNode(){
-    TrieNode* child[26];
-    bool isWord;
-    TrieNode(): isWord(false){
-        for(TrieNode* &c :child) c= nullptr; 
-    };
-};
-```
+
 
 ```c++
 struct TrieNode{
