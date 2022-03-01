@@ -109,7 +109,6 @@ public:
             }
             monoSta.push(i);
         }
-        for(int r:ret) cout<<r<<" ";
         vector<int>ans;
         for(int q:nums1){
             ans.push_back(ret[index[q]]);
