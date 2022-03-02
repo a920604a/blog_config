@@ -17,21 +17,24 @@ comments: false
 ```c++
 class Solution {
 public:
-    void backtracking(vector<int>& nums, vector<int>&path, vector<vector<int>>& ret, int l){
+    void traverse(vector<int>& nums, vector<int>& path, vector<vector<int>>& ret, int s){
+        // 關鍵
         ret.push_back(path);
-        int n = nums.size();
-        for(int i=l ; i<n;i++){
+        // 終止條件，s==nums.size()
+        
+        // 因為不可以重複元素需要有索引
+        for(int i=s;i<nums.size();++i){
             path.push_back(nums[i]);
-            backtracking(nums, path, ret, i+1);
+            traverse(nums, path, ret, i+1);
             path.pop_back();
         }
-        
     }
     vector<vector<int>> subsets(vector<int>& nums) {
+        
         vector<vector<int>> ret;
         vector<int> path;
-        backtracking(nums, path, ret, 0);
-        return ret;      
+        traverse(nums, path, ret, 0);
+        return ret;
     }
 };
 ```
