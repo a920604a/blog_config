@@ -28,6 +28,7 @@ comments: false
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
+        // 要湊出amount 元最少需要幾個硬幣
         //      0   1   2   3   4   5   6   7   8   9   10  11
         //      12  12  12  12  12  12  12  12  12  12  12  12  
         //1     0   1   2   3   4   5   6   7   8   9   10  11

@@ -12,6 +12,7 @@ comments: false
 ## solution 
 
 #### option 1 - dp
+可能會time out
 
 ```c++
 class Solution {
