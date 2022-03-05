@@ -10,6 +10,7 @@ comments: false
 ## [problem](https://app.codility.com/programmers/lessons/)
 
 ## solution
+
 ```c++
 // you can use includes, for example:
 // #include <algorithm>
