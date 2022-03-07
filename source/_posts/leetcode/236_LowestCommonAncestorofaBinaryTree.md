@@ -47,6 +47,7 @@ public:
         
         if(!root) return root;
         if(root == p || root == q) return root;
+        // post-order
         TreeNode *l = lowestCommonAncestor(root->left, p, q);
         TreeNode *r = lowestCommonAncestor(root->right, p, q);
         if(l && !r) return l;

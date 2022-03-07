@@ -30,8 +30,8 @@ public:
             // 每次確定第 ith 最長子序列
             for(int j=0;j<i;++j){
                 if(nums[i] > nums[j] ) dp[i] = max(dp[i], dp[j]+1);
-                ret = max(ret,dp[i]);
             }
+            ret = max(ret,dp[i]);
         }
         return ret;
     }
