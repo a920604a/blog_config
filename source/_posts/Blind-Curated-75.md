@@ -55,6 +55,47 @@ comments: false
 - *212 Word Search II (Hard)
 > *980. Unique Paths III
 - *211 Design Add and Search Words Data Structure (Medium)
-
+- 208 Implement Trie (Prefix Tree)
+> *211 Design Add and Search Words Data Structure (Medium)
+> *648. Replace Words
+> *676. Implement Magic Dictionary
+- *207 Course Schedule (Medium)
+- 206 Reverse Linked List (Easy)
+> 92. Reverse Linked List II
+> *234. Palindrome Linked List
+> 25. Reverse Nodes in k-Group
+> 2074. Reverse Nodes in Even Length Groups
+> 2130. Maximum Twin Sum of a Linked List
+- 200 Number of Islands (Medium)
+> *130. Surrounded Regions
+> 695 Max Area of Island (Medium)
+> 1905 Count Sub Islands (Medium)
+> 1992. Find All Groups of Farmland
+> 1254 Number of Closed Islands (Medium)
+> 1020 Number of Enclaves (Medium)
+> 733 Flood Fill (Easy) 
+- 198 House Robber (Easy)
+- 191 Number of 1 Bits (Easy)
+- 190 Reverse Bits (Easy)
+> 7. Reverse Integer
+> 2119. A Number After a Double Reversal
+- *153. Find Minimum in Rotated Sorted Array
+> 33. Search in Rotated Sorted Array
+> *154. Find Minimum in Rotated Sorted Array II
+- 152 Maximum Product Subarray (Medium)
+> 53. Maximum Subarray
+> 238. Product of Array Except Self
+> 628. Maximum Product of Three Numbers
+> *713. Subarray Product Less Than K
+- 143 Reorder List (Medium)
+> 2095. Delete the Middle Node of a Linked List
+> 19. Remove Nth Node From End of List
+> 203. Remove Linked List Elements
+> 876. Middle of the Linked List
+> 1721. Swapping Nodes in a Linked List
+> *24. Swap Nodes in Pairs
+- 141 Linked List Cycle (Easy)
+> 142. Linked List Cycle II
+> 202. Happy Number
 
 - 79 Word Search (Medium)

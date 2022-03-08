@@ -11,7 +11,7 @@ comments: false
 ## [problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
 ## solution
-#### option 1 - brute force 
+#### option 1 - Binary Search
 
 ```c++
 class Solution {
@@ -33,6 +33,7 @@ public:
 };
 
 ```
-#### option 2 - Binary Search
-s
+
 ## analysis
+- time complexity `O(logn)`
+- space complexity `O(1)`

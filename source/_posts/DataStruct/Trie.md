@@ -19,11 +19,10 @@ comments: false
 [補充]
 - 139 Word Break (Medium)
 - 140 Word Break II (Hard)
-- 211 Design Add and Search Words Data Structure (Medium)
 - 212 Word Search II (Hard)
 - 336 Palindrome Pairs (Hard)
-
-
+- 676 Implement Magic Dictionary (Medium)
+- 720 Longest Word in Dictionary (Medium)
 ## 觀念
 
 - Binary Tree 
