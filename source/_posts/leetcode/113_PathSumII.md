@@ -39,7 +39,6 @@ public:
         }
         
         pathSum(root->left, targetSum, path);
-        // path.pop_back();
         pathSum(root->right, targetSum, path);
         path.pop_back();
         

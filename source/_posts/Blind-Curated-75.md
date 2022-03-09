@@ -33,7 +33,7 @@ comments: false
 > *41. First Missing Positive
 > 645. Set Mismatch
 > 448. Find All Numbers Disappeared in an Array
-- 242 Valid Anagram
+- 242 Valid Anagram (Easy)
 > 49. Group Anagrams
 > 438. Find All Anagrams in a String
 - 238 Product of Array Except Self (Medium)
@@ -49,13 +49,13 @@ comments: false
 > 219 Contains Duplicate II
 > 220 Contains Duplicate III
 > *220. Contains Duplicate III
-- 213 House Robber II (Hard)
+- 213 House Robber II (Medium)
 > 198. House Robber
 > *337. House Robber III
 - *212 Word Search II (Hard)
 > *980. Unique Paths III
 - *211 Design Add and Search Words Data Structure (Medium)
-- 208 Implement Trie (Prefix Tree)
+- 208 Implement Trie (Prefix Tree) (Medium)
 > *211 Design Add and Search Words Data Structure (Medium)
 > *648. Replace Words
 > *676. Implement Magic Dictionary
@@ -79,7 +79,7 @@ comments: false
 - 190 Reverse Bits (Easy)
 > 7. Reverse Integer
 > 2119. A Number After a Double Reversal
-- *153. Find Minimum in Rotated Sorted Array
+- *153. Find Minimum in Rotated Sorted Array (Medium)
 > 33. Search in Rotated Sorted Array
 > *154. Find Minimum in Rotated Sorted Array II
 - 152 Maximum Product Subarray (Medium)
@@ -97,5 +97,55 @@ comments: false
 - 141 Linked List Cycle (Easy)
 > 142. Linked List Cycle II
 > 202. Happy Number
+- *139 Word Break (Medium)
+> *140. Word Break II
+- 133 Clone Graph (Medium)
+> *138. Copy List with Random Pointer
+- *128 Longest Consecutive Sequence (Medium)
+- 125 Valid Palindrome
+> 234. Palindrome Linked List
+> *680. Valid Palindrome II
+> 2108. Find First Palindromic String in the Array
+- 124 Binary Tree Maximum Path Sum (Hard)
+> 112. Path Sum
+> 113. Path Sum II
+> 437. Path Sum III
+> 129. Sum Root to Leaf Numbers
+> *687. Longest Univalue Path
+- 121 Best Time to Buy and Sell Stock (Easy)
+> 122. Best Time to Buy and Sell Stock II
+> *123. Best Time to Buy and Sell Stock III
+> *188. Best Time to Buy and Sell Stock IV
+> *309. Best Time to Buy and Sell Stock with Cooldown
+> *714. Best Time to Buy and Sell Stock with Transaction Fee
+- 105 Construct Binary Tree from Preorder and Inorder Traversal
+> 106. Construct Binary Tree from Inorder and Postorder Traversal
+- 104 Maximum Depth of Binary Tree (Easy)
+> *110. Balanced Binary Tree
+> 111 Minimum Depth of Binary Tree
+> 559. Maximum Depth of N-ary Tree
+- 102 Binary Tree Level Order Traversal (Medium)
+> 94 Binary Tree Inorder Traversal (Easy)
+> 144 Binary Tree Preorder Traversal (Easy)
+> 145 Binary Tree Postorder Traversal (Easy)
+> 107 Binary Tree Level Order Traversal II (Medium)
+> 103 Binary Tree Zigzag Level Order Traversal (Medium)
+> 965 Univalued Binary Tree (Easy)
+> 637. Average of Levels in Binary Tree
+> 429. N-ary Tree Level Order Traversal
+> 589. N-ary Tree Preorder Traversal
+> 590. N-ary Tree Postorder Traversal
+> 993. Cousins in Binary Tree
+- 100 Same Tree (Easy)
+- 98 Validate Binary Search Tree (Medium)
+> 450 Delete Node in a BST (Medium)
+> 701 Insert into a Binary Search Tree (Medium)
+> 700 Search in a Binary Search Tree (Easy)
+> 94. Binary Tree Inorder Traversal
+> 501. Find Mode in Binary Search Tree
+- 91 Decode Ways (Medium)
+> 
+
+
 
 - 79 Word Search (Medium)
