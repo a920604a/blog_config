@@ -10,6 +10,8 @@ comments: false
 ## Blind Curated 75 list
 
 - *647 Palindromic Substrings (Medium)
+> 5. Longest Palindromic Substring
+> 214. Shortest Palindrome
 - *572 Subtree of Another Tree (Easy)
 - *435 Non-overlapping Intervals (Medium)
 - *424 Longest Repeating Character Replacement (Medium)
@@ -188,3 +190,34 @@ comments: false
 > *153. Find Minimum in Rotated Sorted Array
 > *154. Find Minimum in Rotated Sorted Array II
 - 23 Merge k Sorted Lists (Hard)
+> 21. Merge Two Sorted Lists
+> *264. Ugly Number II
+- 21 Merge Two Sorted Lists (Medium)
+- 20 Valid Parentheses (Easy)
+> 22. Generate Parentheses
+> *32. Longest Valid Parentheses
+- 19 Remove Nth Node From End of List (Medium)
+> 2095. Delete the Middle Node of a Linked List
+> 1721. Swapping Nodes in a Linked List
+- 15 3Sum (Medium)
+> 16. 3Sum Closest
+> 18. 4Sum 
+- 11 Container With Most Water (Medium)
+> 42. Trapping Rain Water
+- 5 Longest Palindromic Substring (Medium)
+> 516. Longest Palindromic Subsequence
+> *214. Shortest Palindrome
+> *336. Palindrome Pairs
+> 647. Palindromic Substrings
+- 3 Longest Substring Without Repeating Characters (Medium)
+> *1695. Maximum Erasure Value
+> *992. Subarrays with K Different Integers
+- 1 Two Sum (Easy)
+> 167. Two Sum II - Input Array Is Sorted
+> *653. Two Sum IV - Input is a BST
+> 560. Subarray Sum Equals K
+> 2006. Count Number of Pairs With Absolute Difference K
+
+> 1679. Max Number of K-Sum Pairs
+> 1711. Count Good Meals
+> 2023. Number of Pairs of Strings With Concatenation Equal to Target
