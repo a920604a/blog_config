@@ -217,7 +217,3 @@ comments: false
 > *653. Two Sum IV - Input is a BST
 > 560. Subarray Sum Equals K
 > 2006. Count Number of Pairs With Absolute Difference K
-
-> 1679. Max Number of K-Sum Pairs
-> 1711. Count Good Meals
-> 2023. Number of Pairs of Strings With Concatenation Equal to Target
