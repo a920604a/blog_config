@@ -19,7 +19,11 @@ comments: false
 - *135 Candy
 
 - 209 Minimum Size Subarray Sum
-- 228 Summary Ranges
+- *228 Summary Ranges
 - 163 Missing Ranges (Premium)
 
-Merge Intervals, Insert Interval, Partition Labels, Find And Replace in String, My Calendar II
+
+- 56 Merge Intervals
+- 57 Insert Interval
+- 763 Partition Labels
+- *833. Find And Replace in String
