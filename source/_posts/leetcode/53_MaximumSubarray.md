@@ -1,8 +1,8 @@
 ---
 title: 53. Maximum Subarray
-
 tags:  
     - dp
+    - Kadane's Algo 
 categories: leetcode
 comments: false
 ---

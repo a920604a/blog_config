@@ -12,31 +12,44 @@ comments: false
 
 ## solution
 
+
 ```c++
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ret(2,-1);
-        // avoid empty array
-        if(nums.empty()) return ret;
         int n = nums.size();
-        int l = 0, r =n;
-        while(l<r){
+        int l = 0, r = n-1;
+        while(l<=r){
             int mid = l + (r-l)/2;
-            if(nums[mid] == target) r = mid;
-            else if(nums[mid]>target ) r=mid;
-            else l = mid+1;
+            if(nums[mid] < target) l = mid+1;
+            else r= mid - 1;
         }
-        if(l>n-1 || nums[l] != target ) return ret;
-        ret[0] = l;
-        r = l;
-        while(r+1<n && nums[r] == nums[r+1]) r++;
-        ret[1] =r;
-        return ret;
+        if(l<0 || l>n-1 || nums[l]!=target) return {-1,-1};
+        int j = l;
+        while(j+1<n && nums[j] == nums[j+1]) j++;
+        return {l,j};
     }
 };
 ```
+- lower bound
 
-## analysis
+```c++
+class Solution {
+public:
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int n = nums.size();
+        int l = 0, r = n;
+        while(l<r){
+            int mid = l + (r-l)/2;
+            if(nums[mid] < target) l = mid+1;
+            else r= mid;
+        }
+        if(l<0 || l>n-1 || nums[l]!=target) return {-1,-1};
+        int j = l;
+        while(j+1<n && nums[j] == nums[j+1]) j++;
+        return {l,j};
+    }
+};
+```## analysis
 - time complexity `O(logn)`
 - space complexity `O(1)`

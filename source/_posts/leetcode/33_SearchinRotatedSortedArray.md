@@ -11,6 +11,7 @@ comments: false
 ## [problem](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 在有序陣列，旋轉後，搜尋target的index
+各元素唯一
 ## solution
 
 - 因為是原先是有順序的，要嘛左半部遞增，要嘛右半部遞增

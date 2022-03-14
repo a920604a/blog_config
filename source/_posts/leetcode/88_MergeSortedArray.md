@@ -14,21 +14,21 @@ comments: false
 ```c++
 class Solution {
 public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        // insert sort
-        for(int i= m;i<nums1.size() ; ++i){
-            int val = nums2[i-m];
-            int j = i-1;
-            while(j>-1 && nums1[j] > val){
-                nums1[j+1] = nums1[j];
-                j--;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {        
+        for(int i=m , j=0; i<m+n && j<n;++i, j++){
+            // insert sort
+            int key = nums2[j];
+            int k = i-1;
+            while(k>-1 && nums1[k]>key){
+                nums1[k+1] = nums1[k];
+                k--;
             }
-            nums1[j+1] = val;
+            nums1[k+1] = key;
         }
+        
     }
 };
 ```
-
 
 #### option 2 - merge sort
 ```c++
