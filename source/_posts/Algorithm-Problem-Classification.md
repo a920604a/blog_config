@@ -81,17 +81,24 @@ comments: false
 - *354 Russian Doll Envelopes
 - 274 H-Index
 - 275 H-Index II
+#### HashMap
+
+- 242 Valid Anagram
+- 249 Group Shifted Strings (Premium)
+- *336 Palindrome Pairs
+- 356 Line Reflection (Premium)
+- *205 Isomorphic Strings
 
 
+#### Sum subarray related problems
+- 1 Two Sum
+- 325 Maximum Size Subarray Sum Equals k (Premium)
+- 560 Subarray Sum Equals K
 
-
-Search Insert Position
-Median of Two Sorted Arrays
-Find Minimum in Rotated Sorted Array: I, II
-Find First and Last Position of Element in Sorted Array
-Guess Number Higher or Lower
-First Bad Version
-Search in Rotated Array:I, II
-Longest Increasing Subsequence, Count of Smaller Numbers After Self
-Russian Doll Envelopes
-H-Index, H-Index II
+#### HashMap--Tracking
+- 3 Longest Substring Without Repeating Characters
+- Longest Substring with At Most K Distinct Characters (Google)
+- *30 Substring with Concatenation of All Words
+- 76 Minimum Window Substring
+- *395 Longest Substring with At Least K Repeating Characters
+- 567 Permutation in String

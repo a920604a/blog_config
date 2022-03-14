@@ -10,6 +10,7 @@ comments: false
 - 4 Median of Two Sorted Arrays
 - 23 Merge k Sorted Lists
 - 25 Reverse Nodes in k-Group 
+- *30 Substring with Concatenation of All Words
 - 41 First Missing Positive
 - 42 Trapping Rain Water 
 - 72 Edit Distance
@@ -23,6 +24,7 @@ comments: false
 - 295 Find Median from Data Stream
 - 297 Serialize and Deserialize Binary Tree 
 - *315 Count of Smaller Numbers After Self
+- *336 Palindrome Pairs
 - 354 Russian Doll Envelopes
 - 793 Preimage Size of Factorial Zeroes Function
 - 1373 Maximum Sum BST in Binary Tree
