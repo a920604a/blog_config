@@ -102,3 +102,19 @@ comments: false
 - 76 Minimum Window Substring
 - *395 Longest Substring with At Least K Repeating Characters
 - 567 Permutation in String
+
+#### HashSet
+- *128 Longest Consecutive Sequence
+
+#### Caching
+- 169 Majority Element
+- *229 Majority Element II
+- *334 Increasing Triplet Subsequence
+- Find the 2nd Largest Elements in an array
+> 215. Kth Largest Element in an Array
+
+
+
+#### BFS
+- 127 Word Ladder
+- 126 Word Ladder II
