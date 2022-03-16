@@ -46,10 +46,7 @@ public:
         }
         return false;
 
-        // unordered_set<int> s;
-        // for(int n:nums) s.insert(n);
-        // return !( nums.size() == s.size());
-        
+        // return !(nums.size()==unordered_set<int>(nums.begin(),nums.end()).size());
     }
 };
 ```

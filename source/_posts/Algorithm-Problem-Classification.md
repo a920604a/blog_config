@@ -117,4 +117,25 @@ comments: false
 
 #### BFS
 - 127 Word Ladder
-- 126 Word Ladder II
+- *126 Word Ladder I
+
+
+#### Heap
+- 347 Top K Frequent Elements
+> 692. Top K Frequent Words
+- 252 Meeting Rooms (Premium)
+- 253 Meeting Rooms II (Premium)
+- 370 Range Addition (Premium)
+- Merge k sorted arrays
+- 23 Merge k Sorted Lists
+- 358 Rearrange String k Distance Apart (Premium)
+- *857 Minimum Cost to Hire K Workers
+
+#### TreeSet
+- 217 Contains Duplicate
+- 219 Contains Duplicate II
+- 220 Contains Duplicate III
+- 363 Max Sum of Rectangle No Larger Than K
+- Maximum Sum Of Subarray Close To K
+- 683 K Empty Slots
+

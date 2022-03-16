@@ -27,6 +27,10 @@ comments: false
 - *315 Count of Smaller Numbers After Self
 - *336 Palindrome Pairs
 - 354 Russian Doll Envelopes
+- 363 Max Sum of Rectangle No Larger Than K
+- *480 Sliding Window Median
+- 773 Sliding Puzzle
 - 793 Preimage Size of Factorial Zeroes Function
+- 857 Minimum Cost to Hire K Workers
 - 1373 Maximum Sum BST in Binary Tree
 
