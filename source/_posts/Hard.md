@@ -11,6 +11,7 @@ comments: false
 - 23 Merge k Sorted Lists
 - 25 Reverse Nodes in k-Group 
 - *30 Substring with Concatenation of All Words
+- 32 Longest Valid Parentheses
 - 41 First Missing Positive
 - 42 Trapping Rain Water 
 - 72 Edit Distance
@@ -20,12 +21,14 @@ comments: false
 - 127 Word Ladder
 - 140 Word Break II
 - 154 Find Minimum in Rotated Sorted Array II
+- *164 Maximum Gap
 - 212 Word Search II
 - 239 Sliding Window Maximum
 - 295 Find Median from Data Stream
 - 297 Serialize and Deserialize Binary Tree 
 - *315 Count of Smaller Numbers After Self
 - *336 Palindrome Pairs
+- 352 Data Stream as Disjoint Intervals
 - 354 Russian Doll Envelopes
 - 363 Max Sum of Rectangle No Larger Than K
 - *480 Sliding Window Median

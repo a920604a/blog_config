@@ -134,8 +134,28 @@ comments: false
 #### TreeSet
 - 217 Contains Duplicate
 - 219 Contains Duplicate II
-- 220 Contains Duplicate III
-- 363 Max Sum of Rectangle No Larger Than K
+- *220 Contains Duplicate III
+- *363 Max Sum of Rectangle No Larger Than K
 - Maximum Sum Of Subarray Close To K
-- 683 K Empty Slots
+- 683 K Empty Slots (Premium)
+
+
+#### Stream (deque/caching/heap/treeset)
+
+- 239 Sliding Window Maximum
+- 295 Find Median from Data Stream
+- 346 Moving Average from Data Stream (Premium)
+- *352 Data Stream as Disjoint Intervals
+- *382 Linked List Random Node
+> *398. Random Pick Index
+- *384 Shuffle an Array
+
+#### Sort
+- *148 Sort List (Merge Sort)
+- Quick sort
+- *215 Kth Largest Element in an Array (Quick Sort)
+- 75 Sort Colors
+- *164 Maximum Gap
+- 49 Group Anagrams
+
 
