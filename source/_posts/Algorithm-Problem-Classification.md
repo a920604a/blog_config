@@ -159,3 +159,39 @@ comments: false
 - 49 Group Anagrams
 
 
+#### tracking index using an array
+- 263 Ugly Number
+- *264 Ugly Number II
+- *313 Super Ugly Number
+- *373 Find K Pairs with Smallest Sums
+
+#### Rotate
+- *189 Rotate Array
+- 151 Reverse Words in a String
+#### Finding a Number
+- 268 Missing Number
+- 287 Find the Duplicate Number
+- *41 First Missing Positive
+#### using index to add elements to a list
+- *406 Queue Reconstruction by Height
+
+#### Iterate within a boundary if the boundary is fixed
+- *401 Binary Watch
+- 681 Next Closest Time (Premium)
+
+## Matrix
+
+#### sorted matrix
+- 74 Search a 2D Matrix
+- 240 Search a 2D Matrix II
+- *378 Kth Smallest Element in a Sorted Matrix
+
+
+#### queue
+- 353 Design Snake Game (Premium)
+
+
+#### union-find (disjoint set)
+- 305 Number of Islands II (Premium)
+- 323 Number of Connected Components in an Undirected Graph (Premium)
+- 947 Most Stones Removed with Same Row or Column 

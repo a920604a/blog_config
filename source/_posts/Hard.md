@@ -12,7 +12,7 @@ comments: false
 - 25 Reverse Nodes in k-Group 
 - *30 Substring with Concatenation of All Words
 - 32 Longest Valid Parentheses
-- 41 First Missing Positive
+- *41 First Missing Positive
 - 42 Trapping Rain Water 
 - 72 Edit Distance
 - 76 Minimum Window Substring
