@@ -8,9 +8,9 @@ comments: false
 ---
 
 
-## Array/String
+## Array/String [112]
 
-#### Simple Pointers
+#### Simple Pointers [39]
 - 26 Remove Duplicates from Sorted Array
 - 80 Remove Duplicates from Sorted Array II
 - 27 Remove Element
@@ -65,7 +65,7 @@ comments: false
 - *31 Next Permutation
 - 418 Sentence Screen Fitting (Premium)
 
-#### Binary Search
+#### Binary Search [14]
 
 - 35 Search Insert Position
 - *4 Median of Two Sorted Arrays
@@ -81,7 +81,7 @@ comments: false
 - *354 Russian Doll Envelopes
 - 274 H-Index
 - 275 H-Index II
-#### HashMap
+#### HashMap [5]
 
 - 242 Valid Anagram
 - 249 Group Shifted Strings (Premium)
@@ -90,12 +90,12 @@ comments: false
 - *205 Isomorphic Strings
 
 
-#### Sum subarray related problems
+#### Sum subarray related problems [3]
 - 1 Two Sum
 - 325 Maximum Size Subarray Sum Equals k (Premium)
 - 560 Subarray Sum Equals K
 
-#### HashMap--Tracking
+#### HashMap--Tracking [6]
 - 3 Longest Substring Without Repeating Characters
 - Longest Substring with At Most K Distinct Characters (Google)
 - *30 Substring with Concatenation of All Words
@@ -103,10 +103,10 @@ comments: false
 - *395 Longest Substring with At Least K Repeating Characters
 - 567 Permutation in String
 
-#### HashSet
+#### HashSet [1]
 - *128 Longest Consecutive Sequence
 
-#### Caching
+#### Caching [4]
 - 169 Majority Element
 - *229 Majority Element II
 - *334 Increasing Triplet Subsequence
@@ -115,12 +115,12 @@ comments: false
 
 
 
-#### BFS
+#### BFS [2]
 - 127 Word Ladder
 - *126 Word Ladder I
 
 
-#### Heap
+#### Heap [8]
 - 347 Top K Frequent Elements
 > 692. Top K Frequent Words
 - 252 Meeting Rooms (Premium)
@@ -131,7 +131,7 @@ comments: false
 - 358 Rearrange String k Distance Apart (Premium)
 - *857 Minimum Cost to Hire K Workers
 
-#### TreeSet
+#### TreeSet [6]
 - 217 Contains Duplicate
 - 219 Contains Duplicate II
 - *220 Contains Duplicate III
@@ -140,7 +140,7 @@ comments: false
 - 683 K Empty Slots (Premium)
 
 
-#### Stream (deque/caching/heap/treeset)
+#### Stream (deque/caching/heap/treeset) [6]
 
 - 239 Sliding Window Maximum
 - 295 Find Median from Data Stream
@@ -150,7 +150,7 @@ comments: false
 > *398. Random Pick Index
 - *384 Shuffle an Array
 
-#### Sort
+#### Sort [6]
 - *148 Sort List (Merge Sort)
 - Quick sort
 - *215 Kth Largest Element in an Array (Quick Sort)
@@ -159,39 +159,152 @@ comments: false
 - 49 Group Anagrams
 
 
-#### tracking index using an array
+#### tracking index using an array [4]
 - 263 Ugly Number
 - *264 Ugly Number II
 - *313 Super Ugly Number
 - *373 Find K Pairs with Smallest Sums
 
-#### Rotate
+#### Rotate [2]
 - *189 Rotate Array
 - 151 Reverse Words in a String
-#### Finding a Number
+#### Finding a Number [3]
 - 268 Missing Number
 - 287 Find the Duplicate Number
 - *41 First Missing Positive
-#### using index to add elements to a list
+#### using index to add elements to a list [1]
 - *406 Queue Reconstruction by Height
 
-#### Iterate within a boundary if the boundary is fixed
+#### Iterate within a boundary if the boundary is fixed [2]
 - *401 Binary Watch
 - 681 Next Closest Time (Premium)
 
-## Matrix
+## Matrix [26]
 
-#### sorted matrix
+#### sorted matrix [3]
 - 74 Search a 2D Matrix
 - 240 Search a 2D Matrix II
 - *378 Kth Smallest Element in a Sorted Matrix
 
 
-#### queue
+#### queue [1]
 - 353 Design Snake Game (Premium)
 
 
-#### union-find (disjoint set)
+#### union-find (disjoint set) [3]
 - 305 Number of Islands II (Premium)
 - 323 Number of Connected Components in an Undirected Graph (Premium)
-- 947 Most Stones Removed with Same Row or Column 
+- *947 Most Stones Removed with Same Row or Column 
+
+#### DFS [8]
+- *329 Longest Increasing Path in a Matrix
+- 79 Word Search
+- *212 Word Search II
+- 200 Number of Islands
+- Find a Path in a Matrix
+- *37 Sudoku Solver
+- 36 Valid Sudoku
+- 286 Walls and Gates (Premium)
+
+#### BFS [1]
+- *130 Surrounded Regions
+
+
+#### Others [9]
+- 73 Set Matrix Zeroes
+- 54 Spiral Matrix
+- 59 Spiral Matrix II
+- 48 Rotate Image
+- *304 Range Sum Query 2D - Immutable
+- 317 Shortest Distance from All Buildings (Premium)
+- 296 Best Meeting Point (Premium)
+- *289 Game of Life
+- 348 Design Tic-Tac-Toe (Premium)
+
+#### matrix multiplication [1]
+- 311 Sparse Matrix Multiplication (Premium)
+
+
+## Linked List [22]
+- 2 Add Two Numbers
+- 143 Reorder List
+- 141 Linked List Cycle
+- 138 Copy List with Random Pointer
+- 21 Merge Two Sorted Lists
+- 328 Odd Even Linked List
+- 83 Remove Duplicates from Sorted List
+- 82 Remove Duplicates from Sorted List II
+- 86 Partition List
+- 160 Intersection of Two Linked Lists
+- 203 Remove Linked List Elements
+- 24 Swap Nodes in Pairs
+- 206 Reverse Linked List
+- 92 Reverse Linked List II
+- 19 Remove Nth Node From End of List
+- 234 Palindrome Linked List
+- 237 Delete Node in a Linked List
+- 25 Reverse Nodes in k-Group
+- *148 Sort List
+- Reverse Double Linked List
+- Print Linked List in Reversed Order
+- 369 Plus One Linked List (Premium)
+
+
+## Tree [47]
+
+#### travel [6]
+- 94 Binary Tree Inorder Traversal
+- 144 Binary Tree Preorder Traversal
+- 145 Binary Tree Postorder Traversal
+- 102 Binary Tree Level Order Traversal
+- 107 Binary Tree Level Order Traversal II
+- 987 Vertical Order Traversal of a Binary Tree
+
+
+#### dfs/bfs [37]
+Invert Binary Tree
+Kth Smallest Element in a BST
+Binary Tree Longest Consecutive Sequence
+Validate Binary Search Tree
+Flatten Binary Tree to Linked List
+Path Sum (DFS or BFS)
+Path Sum II (DFS)
+Construct Binary Tree from Inorder and Postorder Traversal
+Construct Binary Tree from Preorder and Inorder Traversal
+Convert Sorted Array to Binary Search Tree
+Convert Sorted List to Binary Search Tree
+Minimum Depth of Binary Tree
+Binary Tree Maximum Path Sum *
+Balanced Binary Tree
+Symmetric Tree
+Binary Search Tree Iterator
+Binary Tree Right Side View
+Lowest Common Ancestor of a Binary Search Tree
+Lowest Common Ancestor of a Binary Tree
+Most Frequent Subtree Sum
+Verify Preorder Serialization of a Binary Tree
+Populating Next Right Pointers in Each Node
+Populating Next Right Pointers in Each Node II
+Unique Binary Search Trees (DP)
+Unique Binary Search Trees II (DFS)
+Sum Root to Leaf Numbers (DFS)
+Count Complete Tree Nodes
+Closest Binary Search Tree Value
+Binary Tree Paths
+Maximum Depth of Binary Tree
+Recover Binary Search Tree
+Same Tree
+Serialize and Deserialize Binary Tree
+Inorder Successor in BST, Inorder Successor in BST II
+Find Leaves of Binary Tree
+Largest BST Subtree
+Convert BST to Sorted Doubly Linked List
+
+#### Trie [2]
+Implement Trie (Prefix Tree)
+Add and Search Word - Data structure design (DFS)
+
+#### Segment Tree & Binary Index Tree [2]
+Range Sum Query - Mutable
+The Skyline Problem
+
