@@ -108,7 +108,7 @@ comments: false
 > 234. Palindrome Linked List
 > *680. Valid Palindrome II
 > 2108. Find First Palindromic String in the Array
-- 124 Binary Tree Maximum Path Sum (Hard)
+- *124 Binary Tree Maximum Path Sum (Hard)
 > 112. Path Sum
 > 113. Path Sum II
 > 437. Path Sum III

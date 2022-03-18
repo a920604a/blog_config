@@ -258,30 +258,35 @@ comments: false
 - 145 Binary Tree Postorder Traversal
 - 102 Binary Tree Level Order Traversal
 - 107 Binary Tree Level Order Traversal II
-- 987 Vertical Order Traversal of a Binary Tree
-
+- 314 Binary Tree Vertical Order Traversal
+> - *987 Vertical Order Traversal of a Binary Tree
 
 #### dfs/bfs [37]
-Invert Binary Tree
-Kth Smallest Element in a BST
-Binary Tree Longest Consecutive Sequence
-Validate Binary Search Tree
-Flatten Binary Tree to Linked List
-Path Sum (DFS or BFS)
-Path Sum II (DFS)
-Construct Binary Tree from Inorder and Postorder Traversal
-Construct Binary Tree from Preorder and Inorder Traversal
-Convert Sorted Array to Binary Search Tree
-Convert Sorted List to Binary Search Tree
-Minimum Depth of Binary Tree
-Binary Tree Maximum Path Sum *
-Balanced Binary Tree
+- 226 Invert Binary Tree
+- 230 Kth Smallest Element in a BST
+- 298 Binary Tree Longest Consecutive Sequence (Premium)
+- 98 Validate Binary Search Tree
+- 114 Flatten Binary Tree to Linked List
+- 112 Path Sum
+- 113 Path Sum II
+> - 437 Path Sum III
+- 106 Construct Binary Tree from Inorder and Postorder Traversal
+- 105 Construct Binary Tree from Preorder and Inorder Traversal
+- 108 Convert Sorted Array to Binary Search Tree
+- 109 Convert Sorted List to Binary Search Tree
+- 111 Minimum Depth of Binary Tree
+- 124 Binary Tree Maximum Path Sum 
+- 110 Balanced Binary Tree
 Symmetric Tree
 Binary Search Tree Iterator
-Binary Tree Right Side View
-Lowest Common Ancestor of a Binary Search Tree
-Lowest Common Ancestor of a Binary Tree
+- 199 Binary Tree Right Side View
+- 235 Lowest Common Ancestor of a Binary Search Tree
+- 236 Lowest Common Ancestor of a Binary Tree
 Most Frequent Subtree Sum
+
+
+
+
 Verify Preorder Serialization of a Binary Tree
 Populating Next Right Pointers in Each Node
 Populating Next Right Pointers in Each Node II
