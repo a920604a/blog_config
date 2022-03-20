@@ -37,6 +37,7 @@ comments: false
 - 773 Sliding Puzzle
 - 793 Preimage Size of Factorial Zeroes Function
 - 857 Minimum Cost to Hire K Workers
+- 895 Maximum Frequency Stack
 - *987 Vertical Order Traversal of a Binary Tree
 - 1373 Maximum Sum BST in Binary Tree
 
