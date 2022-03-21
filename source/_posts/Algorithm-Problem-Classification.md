@@ -277,39 +277,83 @@ comments: false
 - 111 Minimum Depth of Binary Tree
 - 124 Binary Tree Maximum Path Sum 
 - 110 Balanced Binary Tree
-Symmetric Tree
-Binary Search Tree Iterator
+- 101 Symmetric Tree
+- 173 Binary Search Tree Iterator
 - 199 Binary Tree Right Side View
 - 235 Lowest Common Ancestor of a Binary Search Tree
 - 236 Lowest Common Ancestor of a Binary Tree
-Most Frequent Subtree Sum
-
-
-
-
-Verify Preorder Serialization of a Binary Tree
-Populating Next Right Pointers in Each Node
-Populating Next Right Pointers in Each Node II
-Unique Binary Search Trees (DP)
-Unique Binary Search Trees II (DFS)
-Sum Root to Leaf Numbers (DFS)
-Count Complete Tree Nodes
-Closest Binary Search Tree Value
-Binary Tree Paths
-Maximum Depth of Binary Tree
-Recover Binary Search Tree
-Same Tree
-Serialize and Deserialize Binary Tree
-Inorder Successor in BST, Inorder Successor in BST II
-Find Leaves of Binary Tree
-Largest BST Subtree
-Convert BST to Sorted Doubly Linked List
+- 508 Most Frequent Subtree Sum
+- *331 Verify Preorder Serialization of a Binary Tree
+- 116 Populating Next Right Pointers in Each Node
+- 117 Populating Next Right Pointers in Each Node II
+- 96 Unique Binary Search Trees
+- 95 Unique Binary Search Trees II 
+- 129 Sum Root to Leaf Numbers
+- 222 Count Complete Tree Nodes
+- 270 Closest Binary Search Tree Value (Premium)
+- 257 Binary Tree Paths
+- 104 Maximum Depth of Binary Tree
+- *99 Recover Binary Search Tree
+- 100 Same Tree
+- *297 Serialize and Deserialize Binary Tree
+- 285 Inorder Successor in BST (Premium)
+- 510 Inorder Successor in BST II (Premium)
+- 366 Find Leaves of Binary Tree (Premium)
+- 333 Largest BST Subtree (Premium)
+- 426 Convert Binary Search Tree to Sorted Doubly Linked List (Premium)
 
 #### Trie [2]
-Implement Trie (Prefix Tree)
-Add and Search Word - Data structure design (DFS)
+- 208 Implement Trie (Prefix Tree)
+- *211 Design Add and Search Words Data Structure
 
 #### Segment Tree & Binary Index Tree [2]
-Range Sum Query - Mutable
-The Skyline Problem
+- *307 Range Sum Query - Mutable
+- *218 The Skyline Problem
+
+## Stack [18]
+#### Stack and Queue data structure implementation (get familiar with stack and queue) [4]
+- 225 Implement Stack using Queues
+- 232 Implement Queue using Stacks
+- Implement a Stack Using an Array
+- Implement a Queue using an Array
+
+#### Stack [5]
+- 150 Evaluate Reverse Polish Notation
+- 20 Valid Parentheses
+- *32 Longest Valid Parentheses
+- 155 Min Stack
+- *769 Max Chunks To Make Sorted
+
+#### Stack--Largest Rectangle [2]
+- *84 Largest Rectangle in Histogram
+- *85 Maximal Rectangle
+
+#### Stack--Nested Object [7]
+- *385 Mini Parser
+- 341 Flatten Nested List Iterator
+- 339 Nested List Weight Sum (Premium)
+- 364 Nested List Weight Sum II (Premium)
+- *388 Longest Absolute File Path
+- *394 Decode String
+- Evaluate Math Expression
+## DFS
+Partition to K Equal Sum Subsets
+Permutations, Permutations II, Permutation Sequence, Number of Squareful Arrays
+Generate Parentheses
+Combination Sum (DFS), II (DFS), III (DFS), IV (DP)
+Wildcard Matching, Regular Expression Matching, Expressive Words
+- Get Target Using Number List And Arithmetic Operations
+- 293 Flip Game (Premium)
+- 294 Flip Game II (Premium)
+Word Pattern
+- 291 Word Pattern II (Premium)
+- 87 Scramble String
+Remove Invalid Parentheses
+Shortest Palindrome
+Lexicographical Numbers
+Combinations (DFS)
+Letter Combinations of a Phone Number (DFS)
+Restore IP Addresses
+- 254 Factor Combinations (Premium)
+Subsets, Subsets II
 
