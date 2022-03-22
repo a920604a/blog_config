@@ -39,7 +39,7 @@ comments: false
 - *329 Longest Increasing Path in a Matrix
 - *336 Palindrome Pairs
 - 352 Data Stream as Disjoint Intervals
--x 354 Russian Doll Envelopes
+- *354 Russian Doll Envelopes
 - 363 Max Sum of Rectangle No Larger Than K
 - *480 Sliding Window Median
 - 768 Max Chunks To Make Sorted II
