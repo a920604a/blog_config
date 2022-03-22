@@ -23,15 +23,21 @@ comments: false
 - 84 Largest Rectangle in Histogram
 - 85 Maximal Rectangle
 - 87 Scramble String
+- 115 Distinct Subsequences
+- 123 Best Time to Buy and Sell Stock III
 - *124 Binary Tree Maximum Path Sum
 - 126 Word Ladder II
 - 127 Word Ladder
+- 132 Palindrome Partitioning II
 - 140 Word Break II
 - 154 Find Minimum in Rotated Sorted Array II
 - *164 Maximum Gap
+- 174 Dungeon Game
+- 188 Best Time to Buy and Sell Stock IV
 - *212 Word Search II
 - 214 Shortest Palindrome
 - 239 Sliding Window Maximum
+- 265 Paint House II (Premium)
 - 295 Find Median from Data Stream
 - 297 Serialize and Deserialize Binary Tree 
 - 301 Remove Invalid Parentheses
@@ -42,6 +48,7 @@ comments: false
 - *354 Russian Doll Envelopes
 - 363 Max Sum of Rectangle No Larger Than K
 - *480 Sliding Window Median
+- 727 Minimum Window Subsequence (Premium)
 - 768 Max Chunks To Make Sorted II
 - 773 Sliding Puzzle
 - 793 Preimage Size of Factorial Zeroes Function

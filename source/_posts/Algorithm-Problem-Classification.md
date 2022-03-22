@@ -369,32 +369,39 @@ comments: false
 - 90 Subsets II
 
 ##  Dynamic Programming
-
-Coin Change
-Palindrome Partitioning
-Palindrome Partitioning II
-House Robber, II, III
-Jump Game, II
+- 322 Coin Change
+- *131 Palindrome Partitioning
+- *132 Palindrome Partitioning II
+- 198 House Robber
+- 213 House Robber II
+- 337 House Robber III
+- 55 Jump Game
+- 45 Jump Game II
 Best Time to Buy and Sell Stock , II, III , IV
+- 121 Best Time to Buy and Sell Stock
+- 122 Best Time to Buy and Sell Stock II
+> 309. Best Time to Buy and Sell Stock with Cooldown
+> 714. Best Time to Buy and Sell Stock with Transaction Fee
+- *123 Best Time to Buy and Sell Stock III
+- *188 Best Time to Buy and Sell Stock IV
 Dungeon Game
 Decode Ways
 Perfect Squares
 Word Break
 Word Break II
-Minimum Window Subsequence
-
+- 727 Minimum Window Subsequence (Premium)
 Maximal Square
 Minimum Path Sum
 Unique Paths
 Unique Paths II
-Paint House, Paint House II
-
+- 256 Paint House (Premium)
+- 265 Paint House II (Premium)
 Maximum Subarray
 Maximum Product Subarray
 
---DP--2D--
+#### DP--2D
 Edit Distance
 Distinct Subsequences Total
 Longest Palindromic Substring
 Longest Common Subsequence
-Longest Common Substring
+- Longest Common Substring
