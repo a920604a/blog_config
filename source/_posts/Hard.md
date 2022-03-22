@@ -54,6 +54,7 @@ comments: false
 - 793 Preimage Size of Factorial Zeroes Function
 - 857 Minimum Cost to Hire K Workers
 - 895 Maximum Frequency Stack
+- 980 Unique Paths III
 - *987 Vertical Order Traversal of a Binary Tree
 - *996 Number of Squareful Arrays
 - 1373 Maximum Sum BST in Binary Tree

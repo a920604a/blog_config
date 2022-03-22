@@ -377,7 +377,6 @@ comments: false
 - 337 House Robber III
 - 55 Jump Game
 - 45 Jump Game II
-Best Time to Buy and Sell Stock , II, III , IV
 - 121 Best Time to Buy and Sell Stock
 - 122 Best Time to Buy and Sell Stock II
 > 309. Best Time to Buy and Sell Stock with Cooldown
@@ -392,12 +391,12 @@ Word Break II
 - 727 Minimum Window Subsequence (Premium)
 Maximal Square
 Minimum Path Sum
-Unique Paths
+- 62 Unique Paths
 Unique Paths II
 - 256 Paint House (Premium)
 - 265 Paint House II (Premium)
-Maximum Subarray
-Maximum Product Subarray
+- 53 Maximum Subarray
+- 152 Maximum Product Subarray
 
 #### DP--2D
 Edit Distance
