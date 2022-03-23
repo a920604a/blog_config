@@ -23,7 +23,7 @@ comments: false
 - 84 Largest Rectangle in Histogram
 - 85 Maximal Rectangle
 - 87 Scramble String
-- 115 Distinct Subsequences
+- *115 Distinct Subsequences
 - 123 Best Time to Buy and Sell Stock III
 - *124 Binary Tree Maximum Path Sum
 - 126 Word Ladder II
@@ -47,6 +47,7 @@ comments: false
 - 352 Data Stream as Disjoint Intervals
 - *354 Russian Doll Envelopes
 - 363 Max Sum of Rectangle No Larger Than K
+- 381 Insert Delete GetRandom O(1) - Duplicates allowed
 - *480 Sliding Window Median
 - 727 Minimum Window Subsequence (Premium)
 - 768 Max Chunks To Make Sorted II
@@ -54,6 +55,7 @@ comments: false
 - 793 Preimage Size of Factorial Zeroes Function
 - 857 Minimum Cost to Hire K Workers
 - 895 Maximum Frequency Stack
+- *940 Distinct Subsequences II
 - 980 Unique Paths III
 - *987 Vertical Order Traversal of a Binary Tree
 - *996 Number of Squareful Arrays

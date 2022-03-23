@@ -383,24 +383,55 @@ comments: false
 > 714. Best Time to Buy and Sell Stock with Transaction Fee
 - *123 Best Time to Buy and Sell Stock III
 - *188 Best Time to Buy and Sell Stock IV
-Dungeon Game
-Decode Ways
-Perfect Squares
-Word Break
-Word Break II
+- *174 Dungeon Game
+- *91 Decode Ways
+- *279 Perfect Squares
+- *139 Word Break
+- *140 Word Break II
 - 727 Minimum Window Subsequence (Premium)
-Maximal Square
-Minimum Path Sum
+- *221 Maximal Square
+- 64 Minimum Path Sum
 - 62 Unique Paths
-Unique Paths II
+- *63 Unique Paths II
 - 256 Paint House (Premium)
 - 265 Paint House II (Premium)
 - 53 Maximum Subarray
 - 152 Maximum Product Subarray
 
 #### DP--2D
-Edit Distance
-Distinct Subsequences Total
-Longest Palindromic Substring
-Longest Common Subsequence
+- 72 Edit Distance
+> 583. Delete Operation for Two Strings
+> 712. Minimum ASCII Delete Sum for Two Strings
+- 115 Distinct Subsequences Total
+- 5 Longest Palindromic Substring
+- 1143 Longest Common Subsequence
+> 516. Longest Palindromic Subsequence
 - Longest Common Substring
+
+
+## Data Structure Design
+- *146 LRU Cache
+- 380 Insert Delete GetRandom O(1)
+- *381 Insert Delete GetRandom O(1) - Duplicates allowed
+- Insert Delete GetMostFrequent O(1)
+- 379 Design Phone Directory (Premium)
+- *355 Design Twitter
+
+## Bit Manipulation
+
+- 136 Single Number
+- *137 Single Number II
+> 260. Single Number III
+- [Maximum Binary Gap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
+- 191 Number of 1 Bits
+- 190 Reverse Bits
+- *187 Repeated DNA Sequences
+- 201 Bitwise AND of Numbers Range
+- *371 Sum of Two Integers
+- 338 Counting Bits
+- *318 Maximum Product of Word Lengths
+- *89 Gray Code
+- *393 UTF-8 Validation
+
+
+
