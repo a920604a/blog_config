@@ -44,6 +44,28 @@ public:
     }
 };
 ```
+#### option 2 - string without stack
+```c++
+class Solution {
+public:
+    string removeKdigits(string num, int k) {
+        // monotonic stack
+        string ret;
+        for(char cur:num){
+            while(!ret.empty() && k && cur < ret.back() ){
+                k--;
+                ret.pop_back();
+            }
+            ret.push_back(cur);
+        }
+        while(k--) ret.pop_back();
+        // remove zero leading
+        while(!ret.empty() && ret[0] == '0') ret.erase(ret.begin());
+        return ret.empty() ? "0" :ret;
+        
+    }
+};
+```
 ## analysis
 - time complexity `O(n)`
-- space complexity `O(1)`
+- space complexity `O(n)` stack

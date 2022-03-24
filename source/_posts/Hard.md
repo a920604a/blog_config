@@ -29,6 +29,7 @@ comments: false
 - 126 Word Ladder II
 - 127 Word Ladder
 - 132 Palindrome Partitioning II
+- 135 Candy
 - 140 Word Break II
 - 154 Find Minimum in Rotated Sorted Array II
 - *164 Maximum Gap

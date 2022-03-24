@@ -368,7 +368,7 @@ comments: false
 - 78 Subsets
 - 90 Subsets II
 
-##  Dynamic Programming
+##  Dynamic Programming [31]
 - 322 Coin Change
 - *131 Palindrome Partitioning
 - *132 Palindrome Partitioning II
@@ -409,7 +409,7 @@ comments: false
 - Longest Common Substring
 
 
-## Data Structure Design
+## Data Structure Design [6]
 - *146 LRU Cache
 - 380 Insert Delete GetRandom O(1)
 - *381 Insert Delete GetRandom O(1) - Duplicates allowed
@@ -417,7 +417,7 @@ comments: false
 - 379 Design Phone Directory (Premium)
 - *355 Design Twitter
 
-## Bit Manipulation
+## Bit Manipulation [12]
 
 - 136 Single Number
 - *137 Single Number II
@@ -435,3 +435,71 @@ comments: false
 
 
 
+## Graph [6]
+
+#### topological sort
+- *207 Course Schedule
+- *210 Course Schedule II
+- *310 Minimum Height Trees
+
+#### BFS/DFS
+- 26. Graph Valid Tree (Premium)
+- 133 Clone Graph
+- *332 Reconstruct Itinerary
+
+##  Math/Numbers
+
+#### power
+- 50 Pow(x,n)
+- 231 Power of Two
+- 326 Power of Three
+- 342 Power of Four
+- *372 Super Pow
+
+#### /%
+- 7 Reverse Integer
+- 9 Palindrome Number
+
+- *400 Nth Digit
+- *166 Fraction to Recurring Decimal
+- 171 Excel Sheet Column Number
+- 168 Excel Sheet Column Title
+- *172 Factorial Trailing Zeroes
+- 202 Happy Number
+- 204 Count Primes
+- *66 Plus One
+- 29 Divide Two Integers
+- 43 Multiply Strings
+- *149 Max Points on a Line
+- *343 Integer Break
+- 258 Add Digits
+- *368 Largest Divisible Subset
+- 357 Count Numbers with Unique Digits
+- *787 Rotated Digits
+- *402 Remove K Digits
+
+#### Other
+Largest Number
+Triangle
+String to Integer
+Implement strStr()
+ZigZag Conversion
+Add Binary
+Length of Last Word
+Bulls and Cows
+Simplify Path
+Compare Version Numbers
+Pascal's Triangle: I, II
+Count and Say
+Basic Calculator, Basic Calculator II
+Rectangle Area
+Find Peak Element
+Integer to English Words
+Text Justification
+Gas Station
+Self Crossing
+Patching Array
+Nim Game (List first few examples and find rules)
+Bulb Switcher
+Pain Fence
+Nested List Weight Sum
