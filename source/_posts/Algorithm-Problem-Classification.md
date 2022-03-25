@@ -488,8 +488,8 @@ comments: false
 - 67 Add Binary
 - 58 Length of Last Word
 - 299 Bulls and Cows
-Simplify Path
-Compare Version Numbers
+- *71 Simplify Path
+- *165 Compare Version Numbers
 Pascal's Triangle: I, II
 Count and Say
 Basic Calculator, Basic Calculator II
