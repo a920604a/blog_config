@@ -478,15 +478,16 @@ comments: false
 - *787 Rotated Digits
 - *402 Remove K Digits
 
+
 #### Other
-Largest Number
-Triangle
-String to Integer
-Implement strStr()
-ZigZag Conversion
-Add Binary
-Length of Last Word
-Bulls and Cows
+- *179 Largest Number
+- 120 Triangle
+- *8 String to Integer
+- 28 Implement strStr()
+- 6 ZigZag Conversion
+- 67 Add Binary
+- 58 Length of Last Word
+- 299 Bulls and Cows
 Simplify Path
 Compare Version Numbers
 Pascal's Triangle: I, II
@@ -499,7 +500,7 @@ Text Justification
 Gas Station
 Self Crossing
 Patching Array
-Nim Game (List first few examples and find rules)
-Bulb Switcher
-Pain Fence
-Nested List Weight Sum
+- 292 Nim Game
+- 319 Bulb Switcher
+- 276 Paint Fence (Premium)
+- 339 Nested List Weight Sum (Premium)
