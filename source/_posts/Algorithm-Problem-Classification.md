@@ -490,9 +490,11 @@ comments: false
 - 299 Bulls and Cows
 - *71 Simplify Path
 - *165 Compare Version Numbers
-Pascal's Triangle: I, II
-Count and Say
-Basic Calculator, Basic Calculator II
+- 118 Pascal's Triangle
+- 119 Pascal's Triangle II
+- 38 Count and Say
+Basic Calculator
+Basic Calculator II
 Rectangle Area
 Find Peak Element
 Integer to English Words
