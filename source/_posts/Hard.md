@@ -18,6 +18,7 @@ comments: false
 - 42 Trapping Rain Water 
 - *44 Wildcard Matching
 - *60 Permutation Sequence
+- 68 Text Justification
 - 72 Edit Distance
 - 76 Minimum Window Substring
 - 84 Largest Rectangle in Histogram
@@ -37,13 +38,17 @@ comments: false
 - 188 Best Time to Buy and Sell Stock IV
 - *212 Word Search II
 - 214 Shortest Palindrome
+- 224 Basic Calculator
 - 239 Sliding Window Maximum
+- *273 Integer to English Words
 - 265 Paint House II (Premium)
 - 295 Find Median from Data Stream
 - 297 Serialize and Deserialize Binary Tree 
 - 301 Remove Invalid Parentheses
 - *315 Count of Smaller Numbers After Self
 - *329 Longest Increasing Path in a Matrix
+- *335 Self Crossing
+- *330 Patching Array
 - *336 Palindrome Pairs
 - 352 Data Stream as Disjoint Intervals
 - *354 Russian Doll Envelopes

@@ -493,15 +493,15 @@ comments: false
 - 118 Pascal's Triangle
 - 119 Pascal's Triangle II
 - 38 Count and Say
-Basic Calculator
-Basic Calculator II
-Rectangle Area
-Find Peak Element
-Integer to English Words
-Text Justification
-Gas Station
-Self Crossing
-Patching Array
+- *224 Basic Calculator
+- *227 Basic Calculator II
+- *223 Rectangle Area
+- 162 Find Peak Element
+- *273 Integer to English Words
+- 68 Text Justification
+- 134 Gas Station
+- *335 Self Crossing
+- *330 Patching Array
 - 292 Nim Game
 - 319 Bulb Switcher
 - 276 Paint Fence (Premium)
