@@ -26,7 +26,8 @@ comments: false
 - 234 Palindrome Linked List (Easy)
 - 203 Remove Linked List Elements
 
-
+- 83 Remove Duplicates from Sorted List
+- *82 Remove Duplicates from Sorted List II
 
 
 補充
