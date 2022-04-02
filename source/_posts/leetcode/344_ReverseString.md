@@ -41,8 +41,11 @@ class Solution {
 public:
     void reverseString(vector<char>& s) {
         stack<char> sta;
-        for(char c:s) sta.push(c);
-        for(int i=0;i<s.size() ; ++i) {s[i] = sta.top();sta.pop();}
+        for(auto c:s) sta.push(c);
+        for(auto &c :s){
+            c = sta.top();
+            sta.pop();
+        }
     }
 };
 
