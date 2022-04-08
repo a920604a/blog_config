@@ -12,8 +12,6 @@ method : connect、find、unionSet
 
 - 130 Surrounded Regions
 - 990 Satisfiability of Equality Equations
-
-
 - 547 Number of Provinces
 - 947 Most Stones Removed with Same Row or Column 
 
