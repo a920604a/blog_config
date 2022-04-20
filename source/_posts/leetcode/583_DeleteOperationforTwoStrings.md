@@ -16,22 +16,11 @@ public:
     int minDistance(string word1, string word2) {
         
         //      e   a   t
-        //  0   0   0   0
-        //s 0   1   1   1   
-        //e 0   1   2   2    
-        //a 0   1   1   2
-        
-        //      e   t   c   o
-        //      1   2   3   4
-        //l     2   3   4   5
-        //e 
-        //e
-        //t
-        //c
-        //o
-        //d
-        //e
-        
+        //  0   1   2   3
+        //s 1   2   3   4
+        //e 2   1   2   3
+        //a 3   2   1   2
+
         int n = word1.size(), m = word2.size();
         vector<vector<int>> dp(n+1, vector<int>(m+1,0));
         for(int i=0;i<n+1;++i) dp[i][0] = i;
