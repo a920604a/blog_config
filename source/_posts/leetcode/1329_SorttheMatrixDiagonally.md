@@ -7,7 +7,7 @@ categories: leetcode
 comments: false
 ---
 
-## [problem]()
+## [problem](https://leetcode.com/problems/sort-the-matrix-diagonally/)
 ## solution
 ```c++
 class Solution {
