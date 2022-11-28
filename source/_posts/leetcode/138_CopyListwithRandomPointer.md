@@ -1,7 +1,7 @@
 ---
 title: 138. Copy List with Random Pointer
 tags:
-    - Hash table
+    - hash table
 categories: leetcode
 comments: false
 ---
