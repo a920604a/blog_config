@@ -283,6 +283,7 @@ comments: false
 - 199 Binary Tree Right Side View
 - 235 Lowest Common Ancestor of a Binary Search Tree
 - 236 Lowest Common Ancestor of a Binary Tree
+- *1026. Maximum Difference Between Node and Ancestor
 - 508 Most Frequent Subtree Sum
 - *331 Verify Preorder Serialization of a Binary Tree
 - 116 Populating Next Right Pointers in Each Node
