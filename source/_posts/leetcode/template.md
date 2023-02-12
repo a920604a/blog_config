@@ -1,5 +1,5 @@
 ---
-title: 
+title: templated
 tags:
 categories: leetcode
 comments: false
