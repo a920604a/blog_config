@@ -8,6 +8,9 @@ title: 2559. Count Vowel Strings in Ranges
 
 ## [problem](https://leetcode.com/problems/count-vowel-strings-in-ranges)
 ## solution
+
+### C++ solution
+
 ```c++
 class Solution {
 public:
@@ -38,6 +41,20 @@ public:
         return ret;
     }
 };
+```
+### Python solution
+```python
+class Solution:
+    def vowelStrings(self, words: List[str], queries: List[List[int]]) -> List[int]:
+        s = {'a', 'e', 'i', 'o', 'u'}
+        filters = [1 if word[0] in s and word[-1] in s else 0 for word in words]
+        prefix = [0]
+        for f in filters:
+            prefix.append(f + prefix[-1])
+        ret = list()
+        for q in queries:
+            ret.append( prefix[q[1]+1] - prefix[q[0]])
+        return ret
 ```
 
 

@@ -7,6 +7,7 @@ title: 2562. Find the Array Concatenation Value
 
 ## [problem](https://leetcode.com/problems/find-the-array-concatenation-value/)
 ## solution
+### C++ solution
 ```c++
 class Solution {
 public:
@@ -33,6 +34,19 @@ public:
         return ret;
     }
 };
+```
+### Python solution
+```python
+class Solution:
+    def findTheArrayConcVal(self, nums: List[int]) -> int:
+        sums = 0
+        while nums:
+            if len(nums) > 1 :
+                sums += int(str(nums.pop(0)) + str(nums.pop()))
+            else:
+                sums += nums.pop()
+        return sums
+
 ```
 
 ## analysis

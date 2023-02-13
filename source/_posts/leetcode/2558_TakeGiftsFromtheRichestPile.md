@@ -8,6 +8,8 @@ title: 2558. Take Gifts From the Richest Pile
 
 ## [problem](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)
 ## solution
+
+### C++ solution
 ```c++
 class Solution {
 public:
@@ -27,7 +29,20 @@ public:
     }
 };
 ```
+### Python solution
+```python
+class Solution:
+    def pickGifts(self, gifts: List[int], k: int) -> int:
+        ret = 0
+        nums = [-num for num in gifts]
+        heapify(nums)
+        while k:
+            tmp = math.isqrt(-heappop(nums))
+            heappush(nums, -tmp)
+            k-=1
 
+        return -sum(nums)
+```
 
 ## analysis
 - time complexity `O(nlogn)` 
