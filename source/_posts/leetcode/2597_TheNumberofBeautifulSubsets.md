@@ -47,5 +47,5 @@ public:
 
 
 ## analysis
-- time complexity 
-- space complexity
+- time complexity  `O(2^n*n)`
+- space complexity `O(2^n)`
