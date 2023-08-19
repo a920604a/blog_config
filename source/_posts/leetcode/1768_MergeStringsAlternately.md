@@ -27,7 +27,29 @@ public:
     }
 };
 ```
-
+```c++
+class Solution {
+public:
+    string mergeAlternately(string word1, string word2) {
+        int l = 0, r = 0;
+        int n = word1.size(), m = word2.size();
+        string ret ;
+        for(int i =0;i< n + m ;)
+        {
+            if(l < n ){
+                ret+=word1[l++];
+                i++;
+            }
+            if( r < m )
+            {
+                ret+=word2[r++];
+                i++;
+            }
+        }
+        return ret;
+    }
+};
+```
 
 ## analysis
 - time complexity `O(n+m)`
