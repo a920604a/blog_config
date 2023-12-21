@@ -2,6 +2,7 @@
 title: 647. Palindromic Substrings
 tags:  
     - dp
+    - string
 categories: leetcode
 comments: false
 ---
@@ -10,6 +11,32 @@ comments: false
 ## [problem](https://leetcode.com/problems/palindromic-substrings/)
 
 ## solution
+- string
+```c++
+class Solution {
+public:
+    bool isPalindromic(string str)
+    {
+        int l=0,r = str.size()-1;
+        while(l<r)
+        {
+            if(str[l++] != str[r--]) return false;
+        }
+        return true;
+    }
+    int countSubstrings(string s) {
+        // burse force , bfs
+        int n = s.size();
+        int ret = 0;
+        for(int i=0;i<n;++i)
+        {
+            for(int j=i;j<n;++j) ret+=isPalindromic(s.substr(i, j-i+1));
+        }
+        return ret;
+    }
+};
+```
+- dp
 ```c++
 class Solution {
 public:
@@ -51,5 +78,9 @@ public:
 ```
 
 ## analysis
-- time complexity `O(nm)`
-- space complexity `O(nm)`
+- string
+    - time complexity `O(n^3)`
+    - space complexity `O(1)`
+- dp
+    - time complexity `O(nm)`
+    - space complexity `O(nm)`
