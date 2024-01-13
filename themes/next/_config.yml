@@ -105,7 +105,7 @@ menu:
   目錄: /archives/|| archive
   分類: /categories/|| th
   標籤: /tags/|| tags
-  關於我: https://a920604a.github.io/resume/|| user
+  關於我: https://a920604a.github.io/my-nice-resume/|| user
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -620,7 +620,13 @@ local_search:
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
   # show top n results per article, show all results by setting to -1
-  top_n_per_article: 1
+  top_n_per_article: 10
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
 
 
 # ---------------------------------------------------------------

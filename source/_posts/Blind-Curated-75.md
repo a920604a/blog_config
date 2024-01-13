@@ -9,23 +9,23 @@ comments: false
 
 ## Blind Curated 75 list
 
-- *647 Palindromic Substrings (Medium)
+- *647 Palindromic Substrings (Medium) *
 > 5. Longest Palindromic Substring
 > 214. Shortest Palindrome
-- *572 Subtree of Another Tree (Easy)
-- *435 Non-overlapping Intervals (Medium)
-- *424 Longest Repeating Character Replacement (Medium)
-- *417 Pacific Atlantic Water Flow (Medium)
-- 371 Sum of Two Integers (Medium)
+- *572 Subtree of Another Tree (Easy) v
+- *435 Non-overlapping Intervals (Medium) *
+- *424 Longest Repeating Character Replacement (Medium) x
+- *417 Pacific Atlantic Water Flow (Medium) x
+- 371 Sum of Two Integers (Medium) *
 > 2. Add Two Numbers
-- 347 Top K Frequent Elements (Medium)
-> 215. Kth Largest Element in an Array
+- 347 Top K Frequent Elements (Medium) v *opt solution
+> 215. Kth Largest Element in an Array 
 > 692. Top K Frequent Words 
-- *338 Counting Bits (Easy)
+- *338 Counting Bits (Easy) *
 > 191. Number of 1 Bits
-- 322 Coin Change (Medium)
+- 322 Coin Change (Medium) v
 > *983. Minimum Cost For Tickets
-- *300 Longest Increasing Subsequence (Medium)
+- *300 Longest Increasing Subsequence (Medium) *
 - *297 Serialize and Deserialize Binary Tree (Hard)
 - 295 Find Median from Data Stream (Hard)
 > *480. Sliding Window Median
