@@ -1,14 +1,38 @@
 ---
-title: 2273. Find Resultant Array After Removing Anagrams
-tags:
-    - stack
 categories: leetcode
 comments: false
+tags: 
+  - hash table
+  - sorting
+title: 2273. Find Resultant Array After Removing Anagrams
+
 ---
 
-
-## [problems](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
+## [problem](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
 ## solution
+```c++
+class Solution {
+public:
+    vector<string> removeAnagrams(vector<string>& words) {
+        vector<string> ret;
+        ret.push_back(words[0]);
+        int n = words.size();
+        string last = words[0];
+        sort(last.begin(), last.end());
+        for(int i=1;i<n ;++i) {
+            string w = words[i];
+            sort(w.begin(), w.end());
+            if(last == w) continue;
+            else {
+                ret.push_back(words[i]);
+                last = w;
+            }
+        }
+        return ret;
+    }
+};
+```
+
 ```c++
 class Solution {
 public:
@@ -40,7 +64,6 @@ public:
     }
 };
 ```
-
 ## analysis
-- time complexity `O(n)`
+- time complexity `O(n*mlogm)`
 - space complexity `O(n)`
